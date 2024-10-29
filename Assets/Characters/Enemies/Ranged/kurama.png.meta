@@ -1,0 +1,6030 @@
+fileFormatVersion: 2
+guid: 680cb71e432845848a1d0d39313d7441
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7135334847529790442
+    second: kurama_0
+  - first:
+      213: 2136123800387248438
+    second: kurama_1
+  - first:
+      213: -2429379107268165276
+    second: kurama_2
+  - first:
+      213: 7238495207409105235
+    second: kurama_3
+  - first:
+      213: -6221061529513218253
+    second: kurama_4
+  - first:
+      213: -1838180834888852900
+    second: kurama_5
+  - first:
+      213: 1613042418064203646
+    second: kurama_6
+  - first:
+      213: 6584409751398464202
+    second: kurama_7
+  - first:
+      213: -8612608807968474139
+    second: kurama_8
+  - first:
+      213: 2973918665782143617
+    second: kurama_9
+  - first:
+      213: -1656407979060868252
+    second: kurama_10
+  - first:
+      213: 5305051369708997999
+    second: kurama_11
+  - first:
+      213: 8478126326541440352
+    second: kurama_12
+  - first:
+      213: -2756045825970215657
+    second: kurama_13
+  - first:
+      213: 3018698062329913770
+    second: kurama_14
+  - first:
+      213: 645428151543551656
+    second: kurama_15
+  - first:
+      213: -5266612809878540275
+    second: kurama_16
+  - first:
+      213: -5818410314766729138
+    second: kurama_17
+  - first:
+      213: -302839700537463623
+    second: kurama_18
+  - first:
+      213: 6179008987424441058
+    second: kurama_19
+  - first:
+      213: -2787445912653559804
+    second: kurama_20
+  - first:
+      213: 8683968325419427430
+    second: kurama_21
+  - first:
+      213: -2027847037225027208
+    second: kurama_22
+  - first:
+      213: -3373545436855166980
+    second: kurama_23
+  - first:
+      213: 8044838015582954359
+    second: kurama_24
+  - first:
+      213: -828505031091562076
+    second: kurama_25
+  - first:
+      213: 4405513751827214884
+    second: kurama_26
+  - first:
+      213: -763120505320087360
+    second: kurama_27
+  - first:
+      213: 6195288170536353525
+    second: kurama_28
+  - first:
+      213: 5681748144414109528
+    second: kurama_29
+  - first:
+      213: 5917700277304235490
+    second: kurama_30
+  - first:
+      213: -9091859858790168466
+    second: kurama_31
+  - first:
+      213: -6084808986537253839
+    second: kurama_32
+  - first:
+      213: 7438677801645119230
+    second: kurama_33
+  - first:
+      213: -989749753948027382
+    second: kurama_34
+  - first:
+      213: 3628306999171173608
+    second: kurama_35
+  - first:
+      213: -132115294486347143
+    second: kurama_36
+  - first:
+      213: -6443743589036771800
+    second: kurama_37
+  - first:
+      213: -4350671724782918211
+    second: kurama_38
+  - first:
+      213: -5669792258163325535
+    second: kurama_39
+  - first:
+      213: 2053031804678598938
+    second: kurama_40
+  - first:
+      213: -8998884653700274786
+    second: kurama_41
+  - first:
+      213: -4455367574292672427
+    second: kurama_42
+  - first:
+      213: -1357241183958077235
+    second: kurama_43
+  - first:
+      213: -1643596454613821381
+    second: kurama_44
+  - first:
+      213: -2829106652904828653
+    second: kurama_45
+  - first:
+      213: 3385261948168372429
+    second: kurama_46
+  - first:
+      213: -2173979073564465422
+    second: kurama_47
+  - first:
+      213: 1753076449969162921
+    second: kurama_48
+  - first:
+      213: 6835279805638076861
+    second: kurama_49
+  - first:
+      213: -6728945418825314461
+    second: kurama_50
+  - first:
+      213: 8553593396145480949
+    second: kurama_51
+  - first:
+      213: 6632492402803210300
+    second: kurama_52
+  - first:
+      213: -216131865981062315
+    second: kurama_53
+  - first:
+      213: 2570542877101648687
+    second: kurama_54
+  - first:
+      213: 1713340586270799493
+    second: kurama_55
+  - first:
+      213: 7155615035863501545
+    second: kurama_56
+  - first:
+      213: -254673741436432073
+    second: kurama_57
+  - first:
+      213: 3130460534981477469
+    second: kurama_58
+  - first:
+      213: -9048175916033172687
+    second: kurama_59
+  - first:
+      213: 5830125540178756315
+    second: kurama_60
+  - first:
+      213: -4732339170846191625
+    second: kurama_61
+  - first:
+      213: 3883807849729926298
+    second: kurama_62
+  - first:
+      213: -4544912402776923319
+    second: kurama_63
+  - first:
+      213: -2892937218881524315
+    second: kurama_64
+  - first:
+      213: 5399447170614570591
+    second: kurama_65
+  - first:
+      213: -451565746088603877
+    second: kurama_66
+  - first:
+      213: 7241914234589775400
+    second: kurama_67
+  - first:
+      213: -3039564064513029114
+    second: kurama_68
+  - first:
+      213: 7794235542866461411
+    second: kurama_69
+  - first:
+      213: -651697176345463907
+    second: kurama_70
+  - first:
+      213: -1541656624282000864
+    second: kurama_71
+  - first:
+      213: -3300910351711308061
+    second: kurama_72
+  - first:
+      213: 865442415158564751
+    second: kurama_73
+  - first:
+      213: 8928169788086105712
+    second: kurama_74
+  - first:
+      213: -8852996497534865339
+    second: kurama_75
+  - first:
+      213: -6786885134580395397
+    second: kurama_76
+  - first:
+      213: 3276079398931607685
+    second: kurama_77
+  - first:
+      213: -6422543866580400891
+    second: kurama_78
+  - first:
+      213: -4891896394488386554
+    second: kurama_79
+  - first:
+      213: -6998507765858006716
+    second: kurama_80
+  - first:
+      213: -8423872918589692857
+    second: kurama_81
+  - first:
+      213: -7534535046646354644
+    second: kurama_82
+  - first:
+      213: 7613911621369915260
+    second: kurama_83
+  - first:
+      213: -6117142818930063609
+    second: kurama_84
+  - first:
+      213: -1901207578165347013
+    second: kurama_85
+  - first:
+      213: 7170075792244071659
+    second: kurama_86
+  - first:
+      213: 4552626682222092676
+    second: kurama_87
+  - first:
+      213: -4329680212083322385
+    second: kurama_88
+  - first:
+      213: 3118502790381487518
+    second: kurama_89
+  - first:
+      213: 3908898555477079290
+    second: kurama_90
+  - first:
+      213: -8535133754383554850
+    second: kurama_91
+  - first:
+      213: 7312803040914451640
+    second: kurama_92
+  - first:
+      213: 4102479758563349946
+    second: kurama_93
+  - first:
+      213: -2899057600776380047
+    second: kurama_94
+  - first:
+      213: 7789236720797797651
+    second: kurama_95
+  - first:
+      213: 5377651370372420475
+    second: kurama_96
+  - first:
+      213: -2209647191108347132
+    second: kurama_97
+  - first:
+      213: -1510540148577698206
+    second: kurama_98
+  - first:
+      213: 7082270524578122880
+    second: kurama_99
+  - first:
+      213: 2905695321959151520
+    second: kurama_100
+  - first:
+      213: -739545096534083645
+    second: kurama_101
+  - first:
+      213: -3675001123741588725
+    second: kurama_102
+  - first:
+      213: 3545794376065473030
+    second: kurama_103
+  - first:
+      213: -1270212289655506776
+    second: kurama_104
+  - first:
+      213: -772321651384656309
+    second: kurama_105
+  - first:
+      213: -3060285386478148351
+    second: kurama_106
+  - first:
+      213: 4588619601657442904
+    second: kurama_107
+  - first:
+      213: 7806342559816935666
+    second: kurama_108
+  - first:
+      213: -8222326673782979401
+    second: kurama_109
+  - first:
+      213: -634991241151011693
+    second: kurama_110
+  - first:
+      213: -7059515319220702421
+    second: kurama_111
+  - first:
+      213: -3721692810268476348
+    second: kurama_112
+  - first:
+      213: -1794961806745252888
+    second: kurama_113
+  - first:
+      213: 2479856530736571931
+    second: kurama_114
+  - first:
+      213: 5353821045332205046
+    second: kurama_115
+  - first:
+      213: 2232897686075839358
+    second: kurama_116
+  - first:
+      213: 9008481683496869958
+    second: kurama_117
+  - first:
+      213: 7529014745320936268
+    second: kurama_118
+  - first:
+      213: 8462907660841945041
+    second: kurama_119
+  - first:
+      213: 3784033856999200847
+    second: kurama_120
+  - first:
+      213: 1695738702261591784
+    second: kurama_121
+  - first:
+      213: 4117567502456381473
+    second: kurama_122
+  - first:
+      213: 706054097586289754
+    second: kurama_123
+  - first:
+      213: 9072706996209608879
+    second: kurama_124
+  - first:
+      213: 2664456693911535618
+    second: kurama_125
+  - first:
+      213: -5353187366475168576
+    second: kurama_126
+  - first:
+      213: -403436401467749621
+    second: kurama_127
+  - first:
+      213: 4748387896213869424
+    second: kurama_128
+  - first:
+      213: -7151886444635362176
+    second: kurama_129
+  - first:
+      213: 1646612430557757153
+    second: kurama_130
+  - first:
+      213: 540439373422378584
+    second: kurama_131
+  - first:
+      213: -9018373084516673104
+    second: kurama_132
+  - first:
+      213: -4461837445751576243
+    second: kurama_133
+  - first:
+      213: -4867905446305098328
+    second: kurama_134
+  - first:
+      213: 9156950951197806938
+    second: kurama_135
+  - first:
+      213: -3640812894563624831
+    second: kurama_136
+  - first:
+      213: 7282108032616130375
+    second: kurama_137
+  - first:
+      213: 7126206234400736432
+    second: kurama_138
+  - first:
+      213: -2529388901017330544
+    second: kurama_139
+  - first:
+      213: 5140074091370293364
+    second: kurama_140
+  - first:
+      213: 4778412817867181361
+    second: kurama_141
+  - first:
+      213: -7731197901754045436
+    second: kurama_142
+  - first:
+      213: -1045572592531278442
+    second: kurama_143
+  - first:
+      213: -138249764330008017
+    second: kurama_144
+  - first:
+      213: 4017447047667793390
+    second: kurama_145
+  - first:
+      213: -8504346959630609380
+    second: kurama_146
+  - first:
+      213: 1943011452354355843
+    second: kurama_147
+  - first:
+      213: 7566215674027386491
+    second: kurama_148
+  - first:
+      213: 6201657937430479393
+    second: kurama_149
+  - first:
+      213: 1902445083525491202
+    second: kurama_150
+  - first:
+      213: 2660941941743168436
+    second: kurama_151
+  - first:
+      213: -5984597823516454804
+    second: kurama_152
+  - first:
+      213: -4930497067095119310
+    second: kurama_153
+  - first:
+      213: 7937272686908653456
+    second: kurama_154
+  - first:
+      213: 4535586818904615433
+    second: kurama_155
+  - first:
+      213: -4602662610468712693
+    second: kurama_156
+  - first:
+      213: 412653138403533669
+    second: kurama_157
+  - first:
+      213: -3963016308521219504
+    second: kurama_158
+  - first:
+      213: -7307429699291941215
+    second: kurama_159
+  - first:
+      213: 8452201295957583722
+    second: kurama_160
+  - first:
+      213: -5662610537014262943
+    second: kurama_161
+  - first:
+      213: -490721868324516144
+    second: kurama_162
+  - first:
+      213: -8362338740787028336
+    second: kurama_163
+  - first:
+      213: -5843962130023161213
+    second: kurama_164
+  - first:
+      213: 615214714881589290
+    second: kurama_165
+  - first:
+      213: 8925424627079357247
+    second: kurama_166
+  - first:
+      213: -2053090432983822273
+    second: kurama_167
+  - first:
+      213: -2296571798008615496
+    second: kurama_168
+  - first:
+      213: 7540315164090391136
+    second: kurama_169
+  - first:
+      213: 1988098418571299700
+    second: kurama_170
+  - first:
+      213: 3411536313629076864
+    second: kurama_171
+  - first:
+      213: 8071994941223840785
+    second: kurama_172
+  - first:
+      213: 3973131103192299217
+    second: kurama_173
+  - first:
+      213: 3020808813912103930
+    second: kurama_174
+  - first:
+      213: -1972525567883187975
+    second: kurama_175
+  - first:
+      213: 856017196535742956
+    second: kurama_176
+  - first:
+      213: 4870853313294633555
+    second: kurama_177
+  - first:
+      213: -269091818880956459
+    second: kurama_178
+  - first:
+      213: 2697489704078089000
+    second: kurama_179
+  - first:
+      213: -5046855458896733921
+    second: kurama_180
+  - first:
+      213: -3597484937128123368
+    second: kurama_181
+  - first:
+      213: 5968576035458454959
+    second: kurama_182
+  - first:
+      213: 5033026255860017516
+    second: kurama_183
+  - first:
+      213: -7526410774112261941
+    second: kurama_184
+  - first:
+      213: -6607354290636400180
+    second: kurama_185
+  - first:
+      213: 4090430617738587527
+    second: kurama_186
+  - first:
+      213: -4676952890627932210
+    second: kurama_187
+  - first:
+      213: -8418601156398851369
+    second: kurama_188
+  - first:
+      213: -8297141662731316500
+    second: kurama_189
+  - first:
+      213: 2190525589973422364
+    second: kurama_190
+  - first:
+      213: 4741852059811418354
+    second: kurama_191
+  - first:
+      213: 1459288540413562939
+    second: kurama_192
+  - first:
+      213: 3398880968797229825
+    second: kurama_193
+  - first:
+      213: -949093850874883292
+    second: kurama_194
+  - first:
+      213: -2140045123616190228
+    second: kurama_195
+  - first:
+      213: -355250059697670275
+    second: kurama_196
+  - first:
+      213: 2836467172880344875
+    second: kurama_197
+  - first:
+      213: 5236381627740967950
+    second: kurama_198
+  - first:
+      213: 4640199018691299021
+    second: kurama_199
+  - first:
+      213: 4838725138412139273
+    second: kurama_200
+  - first:
+      213: 5975402986582221523
+    second: kurama_201
+  - first:
+      213: 4331849197246279319
+    second: kurama_202
+  - first:
+      213: -2884548585231789320
+    second: kurama_203
+  - first:
+      213: -4915313181228986107
+    second: kurama_204
+  - first:
+      213: -260528474504063957
+    second: kurama_205
+  - first:
+      213: 2934649615234681768
+    second: kurama_206
+  - first:
+      213: 6360643632969769994
+    second: kurama_207
+  - first:
+      213: 5373983830443575180
+    second: kurama_208
+  - first:
+      213: 39006011039791063
+    second: kurama_209
+  - first:
+      213: -2509975420081025700
+    second: kurama_210
+  - first:
+      213: -7001256257697984470
+    second: kurama_211
+  - first:
+      213: -1343664145634984330
+    second: kurama_212
+  - first:
+      213: -3113270141405449710
+    second: kurama_213
+  - first:
+      213: 4349857840774365805
+    second: kurama_214
+  - first:
+      213: 9137462628210153647
+    second: kurama_215
+  - first:
+      213: -67080752749642130
+    second: kurama_216
+  - first:
+      213: 13186362959869758
+    second: kurama_217
+  - first:
+      213: -2320970176217189934
+    second: kurama_218
+  - first:
+      213: 7492788624482314603
+    second: kurama_219
+  - first:
+      213: 7657464649903012588
+    second: kurama_220
+  - first:
+      213: -3413442246325142735
+    second: kurama_221
+  - first:
+      213: 3117117014672871134
+    second: kurama_222
+  - first:
+      213: 4842794816024325608
+    second: kurama_223
+  - first:
+      213: 1966256759530330795
+    second: kurama_224
+  - first:
+      213: -7333668067365816052
+    second: kurama_225
+  - first:
+      213: 368801799138387909
+    second: kurama_226
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kurama_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1536
+        width: 28
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6145583c2c23afc90800000000000000
+      internalID: -7135334847529790442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_1
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1536
+        width: 28
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 631e65e574905ad10800000000000000
+      internalID: 2136123800387248438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_2
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1536
+        width: 28
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4618686c29c194ed0800000000000000
+      internalID: -2429379107268165276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_3
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1536
+        width: 28
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 359bcf93a0d447460800000000000000
+      internalID: 7238495207409105235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_4
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 1537
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33f248fdf795aa9a0800000000000000
+      internalID: -6221061529513218253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_5
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1538
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5ad48f05487d76e0800000000000000
+      internalID: -1838180834888852900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_6
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 1536
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7f9a50788da26610800000000000000
+      internalID: 1613042418064203646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_7
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 1536
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aca39bf78c5806b50800000000000000
+      internalID: 6584409751398464202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_8
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 1536
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eb73a3bbedd97880800000000000000
+      internalID: -8612608807968474139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_9
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 1539
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18a29d0254b754920800000000000000
+      internalID: 2973918665782143617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_10
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1467
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46b44f418b14309e0800000000000000
+      internalID: -1656407979060868252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_11
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1467
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6d44b60d145f9940800000000000000
+      internalID: 5305051369708997999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_12
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1468
+        width: 56
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 065d36699fa58a570800000000000000
+      internalID: 8478126326541440352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_13
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1468
+        width: 55
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 715e8566cee80c9d0800000000000000
+      internalID: -2756045825970215657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_14
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1466
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa1a559d4e194e920800000000000000
+      internalID: 3018698062329913770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_15
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 1466
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a65ac4fb7505f800800000000000000
+      internalID: 645428151543551656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_16
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 1466
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d00faa99d8b39e6b0800000000000000
+      internalID: -5266612809878540275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_17
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1466
+        width: 28
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e404cde55aad04fa0800000000000000
+      internalID: -5818410314766729138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_18
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 1466
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bc249995e81ccbf0800000000000000
+      internalID: -302839700537463623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_19
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 1466
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e2416fafef30c550800000000000000
+      internalID: 6179008987424441058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_20
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1398
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4088ba106b00159d0800000000000000
+      internalID: -2787445912653559804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_21
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1398
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6666e5dae27a38870800000000000000
+      internalID: 8683968325419427430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_22
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 1396
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 879bf571dd3abd3e0800000000000000
+      internalID: -2027847037225027208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_23
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1396
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf79b9a8c42ce21d0800000000000000
+      internalID: -3373545436855166980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_24
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1396
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77361624d8105af60800000000000000
+      internalID: 8044838015582954359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_25
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 1396
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a9d927501f8084f0800000000000000
+      internalID: -828505031091562076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_26
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 1396
+        width: 33
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42272c67a67832d30800000000000000
+      internalID: 4405513751827214884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_27
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 1396
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c0649f81f9d865f0800000000000000
+      internalID: -763120505320087360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_28
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 1396
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5febffd54c51af550800000000000000
+      internalID: 6195288170536353525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_29
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 1398
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85fa90b85df99de40800000000000000
+      internalID: 5681748144414109528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_30
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1326
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e513f38c05ef1250800000000000000
+      internalID: 5917700277304235490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_31
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1326
+        width: 59
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e68cd2111a933d180800000000000000
+      internalID: -9091859858790168466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_32
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 1332
+        width: 50
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 134a757277a6e8ba0800000000000000
+      internalID: -6084808986537253839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_33
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1333
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef614ad7c0e7b3760800000000000000
+      internalID: 7438677801645119230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_34
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1334
+        width: 51
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a06c56bb7d3b342f0800000000000000
+      internalID: -989749753948027382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_35
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 1330
+        width: 53
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ec49adfdf55a5230800000000000000
+      internalID: 3628306999171173608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_36
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 1326
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 972ceb2f6d1aa2ef0800000000000000
+      internalID: -132115294486347143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_37
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 1326
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82633cf98593396a0800000000000000
+      internalID: -6443743589036771800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_38
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 1328
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db56afdfd1f4f93c0800000000000000
+      internalID: -4350671724782918211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_39
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 1328
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a54ae52bf9d051b0800000000000000
+      internalID: -5669792258163325535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_40
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1253
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1172768c85dd7c10800000000000000
+      internalID: 2053031804678598938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_41
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1252
+        width: 26
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e952b79e51a8d1380800000000000000
+      internalID: -8998884653700274786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_42
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1251
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 550dd76fbca5b22c0800000000000000
+      internalID: -4455367574292672427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_43
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1252
+        width: 27
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc0f5ab855c1a2de0800000000000000
+      internalID: -1357241183958077235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_44
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1253
+        width: 54
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b38d6a09bb5c039e0800000000000000
+      internalID: -1643596454613821381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_45
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 1274
+        width: 51
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 311d9e90d7efcb8d0800000000000000
+      internalID: -2829106652904828653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_46
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1262
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc009345ecddafe20800000000000000
+      internalID: 3385261948168372429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_47
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 1255
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f6ae030d8974d1e0800000000000000
+      internalID: -2173979073564465422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_48
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 1256
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aac3883ebd245810800000000000000
+      internalID: 1753076449969162921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_49
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 1256
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db96573b4cacbde50800000000000000
+      internalID: 6835279805638076861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_50
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1187
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36fcce50bcbfd92a0800000000000000
+      internalID: -6728945418825314461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_51
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1181
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f4e06affd774b670800000000000000
+      internalID: 8553593396145480949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_52
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1185
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c38ff8c23b85b0c50800000000000000
+      internalID: 6632492402803210300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_53
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1186
+        width: 49
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5537e878635200df0800000000000000
+      internalID: -216131865981062315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_54
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1186
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2bed8d90276ca320800000000000000
+      internalID: 2570542877101648687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_55
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 1186
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5863eef7f2207c710800000000000000
+      internalID: 1713340586270799493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_56
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 1186
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ea861a86f9dd4360800000000000000
+      internalID: 7155615035863501545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_57
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 1186
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 731df0cd497377cf0800000000000000
+      internalID: -254673741436432073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_58
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 1186
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5443fa4541a17b20800000000000000
+      internalID: 3130460534981477469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_59
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 1186
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13b199391fb6e6280800000000000000
+      internalID: -9048175916033172687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_60
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1116
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd2894a1a44c8e050800000000000000
+      internalID: 5830125540178756315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_61
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1116
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ffcb0dd89a535eb0800000000000000
+      internalID: -4732339170846191625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_62
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1116
+        width: 29
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a94a60b79ae06e530800000000000000
+      internalID: 3883807849729926298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_63
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1116
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 943e639ef3a3de0c0800000000000000
+      internalID: -4544912402776923319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_64
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1116
+        width: 25
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ad6f074de83ad7d0800000000000000
+      internalID: -2892937218881524315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_65
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1116
+        width: 25
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5e28fb1890beea40800000000000000
+      internalID: 5399447170614570591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_66
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1116
+        width: 27
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1f87afa857bbb9f0800000000000000
+      internalID: -451565746088603877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_67
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 1116
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 826819680a2708460800000000000000
+      internalID: 7241914234589775400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_68
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 1116
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60c88ae669c41d5d0800000000000000
+      internalID: -3039564064513029114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_69
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 1116
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e2874c3eefaa2c60800000000000000
+      internalID: 7794235542866461411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_70
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1046
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d93bdc6fed4b4f6f0800000000000000
+      internalID: -651697176345463907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_71
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1046
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0222b00e77fea9ae0800000000000000
+      internalID: -1541656624282000864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_72
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1046
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e676da268fc032d0800000000000000
+      internalID: -3300910351711308061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_73
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1046
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8715119a4ba20c00800000000000000
+      internalID: 865442415158564751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_74
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 1046
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0763f396e1b37eb70800000000000000
+      internalID: 8928169788086105712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_75
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 1046
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54038a63796d32580800000000000000
+      internalID: -8852996497534865339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_76
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1046
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b72d4f5bde320d1a0800000000000000
+      internalID: -6786885134580395397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_77
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 1046
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5803b4d1bd8f67d20800000000000000
+      internalID: 3276079398931607685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_78
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 1046
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5058c16a16a8ed6a0800000000000000
+      internalID: -6422543866580400891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_79
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 1046
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60c6188c52e7c1cb0800000000000000
+      internalID: -4891896394488386554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_80
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 976
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4498832444e40ee90800000000000000
+      internalID: -6998507765858006716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_81
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 976
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 744ad6e4634681b80800000000000000
+      internalID: -8423872918589692857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_82
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 976
+        width: 46
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2da9e47b44ff6790800000000000000
+      internalID: -7534535046646354644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_83
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 976
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c77e8f6874c0aa960800000000000000
+      internalID: 7613911621369915260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_84
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 976
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7078755240b8b1ba0800000000000000
+      internalID: -6117142818930063609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_85
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 976
+        width: 52
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3d7c2bd7cd8d95e0800000000000000
+      internalID: -1901207578165347013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_86
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 976
+        width: 52
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: becd551c1f9318360800000000000000
+      internalID: 7170075792244071659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_87
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 976
+        width: 52
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48120dcb8dd2e2f30800000000000000
+      internalID: 4552626682222092676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_88
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 976
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe15cb769c2e9e3c0800000000000000
+      internalID: -4329680212083322385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_89
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 976
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e95c0cbe3c5274b20800000000000000
+      internalID: 3118502790381487518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_90
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 906
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af4bf36a6823f3630800000000000000
+      internalID: 3908898555477079290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_91
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 906
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed6a58b421d1d8980800000000000000
+      internalID: -8535133754383554850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_92
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 906
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bc2a1eee9b4c7560800000000000000
+      internalID: 7312803040914451640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_93
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 906
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab51663ca9feee830800000000000000
+      internalID: 4102479758563349946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_94
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 906
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 171e352d87a74c7d0800000000000000
+      internalID: -2899057600776380047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_95
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 906
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31dc496478de81c60800000000000000
+      internalID: 7789236720797797651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_96
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 906
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b73d0f8ed6141aa40800000000000000
+      internalID: 5377651370372420475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_97
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 906
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40b1c0f3691c551e0800000000000000
+      internalID: -2209647191108347132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_98
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 906
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26e7f01fcbb790be0800000000000000
+      internalID: -1510540148577698206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_99
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 907
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08cc2b4c487494260800000000000000
+      internalID: 7082270524578122880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_100
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 836
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a7b3e2108a135820800000000000000
+      internalID: 2905695321959151520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_101
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 836
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c734b927ab9cb5f0800000000000000
+      internalID: -739545096534083645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_102
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 836
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b03a83ee2f5cffcc0800000000000000
+      internalID: -3675001123741588725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_103
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 836
+        width: 34
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60ad5f7d231353130800000000000000
+      internalID: 3545794376065473030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_104
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 836
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a87fb507ac4f5ee0800000000000000
+      internalID: -1270212289655506776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_105
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 836
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4edfdccc892845f0800000000000000
+      internalID: -772321651384656309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_106
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 836
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 105a6a3b7aea785d0800000000000000
+      internalID: -3060285386478148351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_107
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 836
+        width: 34
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 852bf26573d0eaf30800000000000000
+      internalID: 4588619601657442904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_108
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 836
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f8e6e8c233b55c60800000000000000
+      internalID: 7806342559816935666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_109
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 836
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b442f5347d64ed80800000000000000
+      internalID: -8222326673782979401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_110
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 766
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 394a5bb94de0037f0800000000000000
+      internalID: -634991241151011693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_111
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 766
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b23fb675830970e90800000000000000
+      internalID: -7059515319220702421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_112
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 766
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44c72d08b14e95cc0800000000000000
+      internalID: -3721692810268476348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_113
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 766
+        width: 37
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eb4e833fb30717e0800000000000000
+      internalID: -1794961806745252888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_114
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 766
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b166c7830683a6220800000000000000
+      internalID: 2479856530736571931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_115
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 766
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fd590effd79c4a40800000000000000
+      internalID: 5353821045332205046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_116
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 816
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7397567d98dcfe10800000000000000
+      internalID: 2232897686075839358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_117
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 766
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 640a176bc5e840d70800000000000000
+      internalID: 9008481683496869958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_118
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 766
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c43588b350f6c7860800000000000000
+      internalID: 7529014745320936268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_119
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 766
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d78a6bdda9427570800000000000000
+      internalID: 8462907660841945041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_120
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 766
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f481d788eb6938430800000000000000
+      internalID: 3784033856999200847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_121
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 696
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ee1f248d59788710800000000000000
+      internalID: 1695738702261591784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_122
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 696
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 120ea92e3d9842930800000000000000
+      internalID: 4117567502456381473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_123
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 696
+        width: 30
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5cf6def5786cc900800000000000000
+      internalID: 706054097586289754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_124
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 696
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa8664c91fab8ed70800000000000000
+      internalID: 9072706996209608879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_125
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 696
+        width: 31
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20042080f3d0af420800000000000000
+      internalID: 2664456693911535618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_126
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 696
+        width: 28
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c4832dd378a5b5b0800000000000000
+      internalID: -5353187366475168576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_127
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 696
+        width: 27
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0b8d09fab4b66af0800000000000000
+      internalID: -403436401467749621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_128
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 696
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 073979132a9a5e140800000000000000
+      internalID: 4748387896213869424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_129
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 696
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08ce391cb256fbc90800000000000000
+      internalID: -7151886444635362176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_130
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 696
+        width: 28
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ee332e0841f9d610800000000000000
+      internalID: 1646612430557757153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_131
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 626
+        width: 33
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85eb97b2fb6008700800000000000000
+      internalID: 540439373422378584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_132
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 626
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b99075067d48d280800000000000000
+      internalID: -9018373084516673104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_133
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 626
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d49e070ab7e5412c0800000000000000
+      internalID: -4461837445751576243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_134
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 626
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a59bc0b9c9b17cb0800000000000000
+      internalID: -4867905446305098328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_135
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 626
+        width: 35
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5112dfdf56041f70800000000000000
+      internalID: 9156950951197806938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_136
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 625
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1889fd556fb397dc0800000000000000
+      internalID: -3640812894563624831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_137
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 625
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7476a146cae3f0560800000000000000
+      internalID: 7282108032616130375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_138
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 623
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b441ad50de55e260800000000000000
+      internalID: 7126206234400736432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_139
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 622
+        width: 35
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09cdb00223ec5ecd0800000000000000
+      internalID: -2529388901017330544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_140
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 622
+        width: 35
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 478a05f1726355740800000000000000
+      internalID: 5140074091370293364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_141
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 552
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13d85270425505240800000000000000
+      internalID: 4778412817867181361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_142
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 552
+        width: 35
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40c64b1587445b490800000000000000
+      internalID: -7731197901754045436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_143
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 552
+        width: 33
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 695f94b44416d71f0800000000000000
+      internalID: -1045572592531278442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_144
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 554
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2214d26296d41ef0800000000000000
+      internalID: -138249764330008017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_145
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 553
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eed3e24fdc6d0c730800000000000000
+      internalID: 4017447047667793390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_146
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 554
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c145b888f7d7af980800000000000000
+      internalID: -8504346959630609380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_147
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 554
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 382e8141f96f6fa10800000000000000
+      internalID: 1943011452354355843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_148
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 554
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7625686119900960800000000000000
+      internalID: 7566215674027386491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_149
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 553
+        width: 43
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 122860b4907b01650800000000000000
+      internalID: 6201657937430479393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_150
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 554
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20aa93059b7d66a10800000000000000
+      internalID: 1902445083525491202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_151
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 484
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bb2a8509909de420800000000000000
+      internalID: 2660941941743168436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_152
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 486
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c60d9bdbcff62fca0800000000000000
+      internalID: -5984597823516454804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_153
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 486
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23aa0b55a0b539bb0800000000000000
+      internalID: -4930497067095119310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_154
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 486
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09fb99c847bd62e60800000000000000
+      internalID: 7937272686908653456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_155
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 486
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90ae0c46e24a1fe30800000000000000
+      internalID: 4535586818904615433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_156
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 486
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0f4a02edbe0020c0800000000000000
+      internalID: -4602662610468712693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_157
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 486
+        width: 46
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5632ef1d7d90ab500800000000000000
+      internalID: 412653138403533669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_158
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 486
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05a43831aa98009c0800000000000000
+      internalID: -3963016308521219504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_159
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 499
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a67098a76bc69a90800000000000000
+      internalID: -7307429699291941215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_160
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 477
+        width: 58
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a67e5a70c404c4570800000000000000
+      internalID: 8452201295957583722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_161
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 521
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16381e7e7bd5a61b0800000000000000
+      internalID: -5662610537014262943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_162
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 521
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0de400b8f0b9039f0800000000000000
+      internalID: -490721868324516144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_163
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 446
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09ed6e7883103fb80800000000000000
+      internalID: -8362338740787028336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_164
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 436
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3826227c76316eea0800000000000000
+      internalID: -5843962130023161213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_165
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 441
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a204c1d068ea98800800000000000000
+      internalID: 615214714881589290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_166
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 415
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f33a69ec86a7ddb70800000000000000
+      internalID: 8925424627079357247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_167
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 436
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f301f320125f183e0800000000000000
+      internalID: -2053090432983822273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_168
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 435
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bd24821e10f020e0800000000000000
+      internalID: -2296571798008615496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_169
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 416
+        width: 46
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06a591201b494a860800000000000000
+      internalID: 7540315164090391136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_170
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 344
+        width: 27
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47b45717af4279b10800000000000000
+      internalID: 1988098418571299700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_171
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 344
+        width: 31
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08de430c336385f20800000000000000
+      internalID: 3411536313629076864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_172
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 344
+        width: 33
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11ca56cb1ac750070800000000000000
+      internalID: 8071994941223840785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_173
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 344
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d635d310b5632730800000000000000
+      internalID: 3973131103192299217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_174
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 344
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afb999f7c911ce920800000000000000
+      internalID: 3020808813912103930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_175
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 344
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f862f7627e20a4e0800000000000000
+      internalID: -1972525567883187975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_176
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 344
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce18329da1f21eb00800000000000000
+      internalID: 856017196535742956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_177
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 344
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35a06f3184fb89340800000000000000
+      internalID: 4870853313294633555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_178
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 344
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d703ab9a6ef34cf0800000000000000
+      internalID: -269091818880956459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_179
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 344
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82b19dc08986f6520800000000000000
+      internalID: 2697489704078089000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_180
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 281
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1918b313b7f5f9b0800000000000000
+      internalID: -5046855458896733921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_181
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 281
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 814e8ad828a231ec0800000000000000
+      internalID: -3597484937128123368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_182
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 281
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa519680844a4d250800000000000000
+      internalID: 5968576035458454959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_183
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 281
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6920cda6b6e8d540800000000000000
+      internalID: 5033026255860017516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_184
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 281
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc8ad5f0741dc8790800000000000000
+      internalID: -7526410774112261941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_185
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 281
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc9d679a746fd44a0800000000000000
+      internalID: -6607354290636400180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_186
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 281
+        width: 33
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78da0bc89f024c830800000000000000
+      internalID: 4090430617738587527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_187
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 281
+        width: 33
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecfb2e22020281fb0800000000000000
+      internalID: -4676952890627932210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_188
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 281
+        width: 28
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7da57271ade1b2b80800000000000000
+      internalID: -8418601156398851369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_189
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 281
+        width: 31
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce25ecd2e91aadc80800000000000000
+      internalID: -8297141662731316500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_190
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 218
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c11d4cd0b6f466e10800000000000000
+      internalID: 2190525589973422364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_191
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 218
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f0938233517ec140800000000000000
+      internalID: 4741852059811418354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_192
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 218
+        width: 47
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b301624223f604410800000000000000
+      internalID: 1459288540413562939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_193
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 218
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1039efaab304b2f20800000000000000
+      internalID: 3398880968797229825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_194
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 218
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4235810db2424d2f0800000000000000
+      internalID: -949093850874883292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_195
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 218
+        width: 47
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce0dc8b6c480d42e0800000000000000
+      internalID: -2140045123616190228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_196
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 218
+        width: 46
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d77b841f3f5e11bf0800000000000000
+      internalID: -355250059697670275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_197
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 218
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b27e6909dd72d5720800000000000000
+      internalID: 2836467172880344875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_198
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 218
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e04d1edc85d5ba840800000000000000
+      internalID: 5236381627740967950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_199
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 218
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc606343c6c456040800000000000000
+      internalID: 4640199018691299021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_200
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 142
+        width: 27
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 903fec070ea962340800000000000000
+      internalID: 4838725138412139273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_201
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 142
+        width: 27
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d2aa057b55ece250800000000000000
+      internalID: 5975402986582221523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_202
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 142
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79eec6ec4e1dd1c30800000000000000
+      internalID: 4331849197246279319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_203
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 142
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f257ef385608f7d0800000000000000
+      internalID: -2884548585231789320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_204
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 142
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5011d0144bc49cbb0800000000000000
+      internalID: -4915313181228986107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_205
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 142
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b249f479bba626cf0800000000000000
+      internalID: -260528474504063957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_206
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 142
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8abcc40d648f9b820800000000000000
+      internalID: 2934649615234681768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_207
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 142
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a04630e1fab854850800000000000000
+      internalID: 6360643632969769994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_208
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 142
+        width: 51
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c87484a32d9349a40800000000000000
+      internalID: 5373983830443575180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_209
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 142
+        width: 52
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d7b128a2c39a8000800000000000000
+      internalID: 39006011039791063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_210
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 79
+        width: 52
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5dcb1367a6ca2dd0800000000000000
+      internalID: -2509975420081025700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_211
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 79
+        width: 52
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a205e62278a86de90800000000000000
+      internalID: -7001256257697984470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_212
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 79
+        width: 49
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67e7ffd14985a5de0800000000000000
+      internalID: -1343664145634984330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_213
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 79
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 212b2bb1d417bc4d0800000000000000
+      internalID: -3113270141405449710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_214
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 79
+        width: 28
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d62cdced8accd5c30800000000000000
+      internalID: 4349857840774365805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_215
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 79
+        width: 28
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa89fd619d9cece70800000000000000
+      internalID: 9137462628210153647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_216
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 79
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6e7719296ea11ff0800000000000000
+      internalID: -67080752749642130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_217
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 79
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e373a106de8de2000800000000000000
+      internalID: 13186362959869758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_218
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 79
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d17c48fbe14acfd0800000000000000
+      internalID: -2320970176217189934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_219
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 79
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b692b533e8bbbf760800000000000000
+      internalID: 7492788624482314603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_220
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cea74913787c44a60800000000000000
+      internalID: 7657464649903012588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_221
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 16
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13b7a76bc5401a0d0800000000000000
+      internalID: -3413442246325142735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_222
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 16
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ede07eed869324b20800000000000000
+      internalID: 3117117014672871134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_223
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 16
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8edab391a30153340800000000000000
+      internalID: 4842794816024325608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_224
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 16
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baa1409ea1c894b10800000000000000
+      internalID: 1966256759530330795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_225
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 16
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c09f8088fb3993a90800000000000000
+      internalID: -7333668067365816052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurama_226
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 0
+        width: 157
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c72b26484f3e1500800000000000000
+      internalID: 368801799138387909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      kurama_0: -7135334847529790442
+      kurama_1: 2136123800387248438
+      kurama_10: -1656407979060868252
+      kurama_100: 2905695321959151520
+      kurama_101: -739545096534083645
+      kurama_102: -3675001123741588725
+      kurama_103: 3545794376065473030
+      kurama_104: -1270212289655506776
+      kurama_105: -772321651384656309
+      kurama_106: -3060285386478148351
+      kurama_107: 4588619601657442904
+      kurama_108: 7806342559816935666
+      kurama_109: -8222326673782979401
+      kurama_11: 5305051369708997999
+      kurama_110: -634991241151011693
+      kurama_111: -7059515319220702421
+      kurama_112: -3721692810268476348
+      kurama_113: -1794961806745252888
+      kurama_114: 2479856530736571931
+      kurama_115: 5353821045332205046
+      kurama_116: 2232897686075839358
+      kurama_117: 9008481683496869958
+      kurama_118: 7529014745320936268
+      kurama_119: 8462907660841945041
+      kurama_12: 8478126326541440352
+      kurama_120: 3784033856999200847
+      kurama_121: 1695738702261591784
+      kurama_122: 4117567502456381473
+      kurama_123: 706054097586289754
+      kurama_124: 9072706996209608879
+      kurama_125: 2664456693911535618
+      kurama_126: -5353187366475168576
+      kurama_127: -403436401467749621
+      kurama_128: 4748387896213869424
+      kurama_129: -7151886444635362176
+      kurama_13: -2756045825970215657
+      kurama_130: 1646612430557757153
+      kurama_131: 540439373422378584
+      kurama_132: -9018373084516673104
+      kurama_133: -4461837445751576243
+      kurama_134: -4867905446305098328
+      kurama_135: 9156950951197806938
+      kurama_136: -3640812894563624831
+      kurama_137: 7282108032616130375
+      kurama_138: 7126206234400736432
+      kurama_139: -2529388901017330544
+      kurama_14: 3018698062329913770
+      kurama_140: 5140074091370293364
+      kurama_141: 4778412817867181361
+      kurama_142: -7731197901754045436
+      kurama_143: -1045572592531278442
+      kurama_144: -138249764330008017
+      kurama_145: 4017447047667793390
+      kurama_146: -8504346959630609380
+      kurama_147: 1943011452354355843
+      kurama_148: 7566215674027386491
+      kurama_149: 6201657937430479393
+      kurama_15: 645428151543551656
+      kurama_150: 1902445083525491202
+      kurama_151: 2660941941743168436
+      kurama_152: -5984597823516454804
+      kurama_153: -4930497067095119310
+      kurama_154: 7937272686908653456
+      kurama_155: 4535586818904615433
+      kurama_156: -4602662610468712693
+      kurama_157: 412653138403533669
+      kurama_158: -3963016308521219504
+      kurama_159: -7307429699291941215
+      kurama_16: -5266612809878540275
+      kurama_160: 8452201295957583722
+      kurama_161: -5662610537014262943
+      kurama_162: -490721868324516144
+      kurama_163: -8362338740787028336
+      kurama_164: -5843962130023161213
+      kurama_165: 615214714881589290
+      kurama_166: 8925424627079357247
+      kurama_167: -2053090432983822273
+      kurama_168: -2296571798008615496
+      kurama_169: 7540315164090391136
+      kurama_17: -5818410314766729138
+      kurama_170: 1988098418571299700
+      kurama_171: 3411536313629076864
+      kurama_172: 8071994941223840785
+      kurama_173: 3973131103192299217
+      kurama_174: 3020808813912103930
+      kurama_175: -1972525567883187975
+      kurama_176: 856017196535742956
+      kurama_177: 4870853313294633555
+      kurama_178: -269091818880956459
+      kurama_179: 2697489704078089000
+      kurama_18: -302839700537463623
+      kurama_180: -5046855458896733921
+      kurama_181: -3597484937128123368
+      kurama_182: 5968576035458454959
+      kurama_183: 5033026255860017516
+      kurama_184: -7526410774112261941
+      kurama_185: -6607354290636400180
+      kurama_186: 4090430617738587527
+      kurama_187: -4676952890627932210
+      kurama_188: -8418601156398851369
+      kurama_189: -8297141662731316500
+      kurama_19: 6179008987424441058
+      kurama_190: 2190525589973422364
+      kurama_191: 4741852059811418354
+      kurama_192: 1459288540413562939
+      kurama_193: 3398880968797229825
+      kurama_194: -949093850874883292
+      kurama_195: -2140045123616190228
+      kurama_196: -355250059697670275
+      kurama_197: 2836467172880344875
+      kurama_198: 5236381627740967950
+      kurama_199: 4640199018691299021
+      kurama_2: -2429379107268165276
+      kurama_20: -2787445912653559804
+      kurama_200: 4838725138412139273
+      kurama_201: 5975402986582221523
+      kurama_202: 4331849197246279319
+      kurama_203: -2884548585231789320
+      kurama_204: -4915313181228986107
+      kurama_205: -260528474504063957
+      kurama_206: 2934649615234681768
+      kurama_207: 6360643632969769994
+      kurama_208: 5373983830443575180
+      kurama_209: 39006011039791063
+      kurama_21: 8683968325419427430
+      kurama_210: -2509975420081025700
+      kurama_211: -7001256257697984470
+      kurama_212: -1343664145634984330
+      kurama_213: -3113270141405449710
+      kurama_214: 4349857840774365805
+      kurama_215: 9137462628210153647
+      kurama_216: -67080752749642130
+      kurama_217: 13186362959869758
+      kurama_218: -2320970176217189934
+      kurama_219: 7492788624482314603
+      kurama_22: -2027847037225027208
+      kurama_220: 7657464649903012588
+      kurama_221: -3413442246325142735
+      kurama_222: 3117117014672871134
+      kurama_223: 4842794816024325608
+      kurama_224: 1966256759530330795
+      kurama_225: -7333668067365816052
+      kurama_226: 368801799138387909
+      kurama_23: -3373545436855166980
+      kurama_24: 8044838015582954359
+      kurama_25: -828505031091562076
+      kurama_26: 4405513751827214884
+      kurama_27: -763120505320087360
+      kurama_28: 6195288170536353525
+      kurama_29: 5681748144414109528
+      kurama_3: 7238495207409105235
+      kurama_30: 5917700277304235490
+      kurama_31: -9091859858790168466
+      kurama_32: -6084808986537253839
+      kurama_33: 7438677801645119230
+      kurama_34: -989749753948027382
+      kurama_35: 3628306999171173608
+      kurama_36: -132115294486347143
+      kurama_37: -6443743589036771800
+      kurama_38: -4350671724782918211
+      kurama_39: -5669792258163325535
+      kurama_4: -6221061529513218253
+      kurama_40: 2053031804678598938
+      kurama_41: -8998884653700274786
+      kurama_42: -4455367574292672427
+      kurama_43: -1357241183958077235
+      kurama_44: -1643596454613821381
+      kurama_45: -2829106652904828653
+      kurama_46: 3385261948168372429
+      kurama_47: -2173979073564465422
+      kurama_48: 1753076449969162921
+      kurama_49: 6835279805638076861
+      kurama_5: -1838180834888852900
+      kurama_50: -6728945418825314461
+      kurama_51: 8553593396145480949
+      kurama_52: 6632492402803210300
+      kurama_53: -216131865981062315
+      kurama_54: 2570542877101648687
+      kurama_55: 1713340586270799493
+      kurama_56: 7155615035863501545
+      kurama_57: -254673741436432073
+      kurama_58: 3130460534981477469
+      kurama_59: -9048175916033172687
+      kurama_6: 1613042418064203646
+      kurama_60: 5830125540178756315
+      kurama_61: -4732339170846191625
+      kurama_62: 3883807849729926298
+      kurama_63: -4544912402776923319
+      kurama_64: -2892937218881524315
+      kurama_65: 5399447170614570591
+      kurama_66: -451565746088603877
+      kurama_67: 7241914234589775400
+      kurama_68: -3039564064513029114
+      kurama_69: 7794235542866461411
+      kurama_7: 6584409751398464202
+      kurama_70: -651697176345463907
+      kurama_71: -1541656624282000864
+      kurama_72: -3300910351711308061
+      kurama_73: 865442415158564751
+      kurama_74: 8928169788086105712
+      kurama_75: -8852996497534865339
+      kurama_76: -6786885134580395397
+      kurama_77: 3276079398931607685
+      kurama_78: -6422543866580400891
+      kurama_79: -4891896394488386554
+      kurama_8: -8612608807968474139
+      kurama_80: -6998507765858006716
+      kurama_81: -8423872918589692857
+      kurama_82: -7534535046646354644
+      kurama_83: 7613911621369915260
+      kurama_84: -6117142818930063609
+      kurama_85: -1901207578165347013
+      kurama_86: 7170075792244071659
+      kurama_87: 4552626682222092676
+      kurama_88: -4329680212083322385
+      kurama_89: 3118502790381487518
+      kurama_9: 2973918665782143617
+      kurama_90: 3908898555477079290
+      kurama_91: -8535133754383554850
+      kurama_92: 7312803040914451640
+      kurama_93: 4102479758563349946
+      kurama_94: -2899057600776380047
+      kurama_95: 7789236720797797651
+      kurama_96: 5377651370372420475
+      kurama_97: -2209647191108347132
+      kurama_98: -1510540148577698206
+      kurama_99: 7082270524578122880
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

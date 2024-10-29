@@ -1,0 +1,4900 @@
+fileFormatVersion: 2
+guid: 4c1eca075e62b044cb69154da6907dfd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5926665945722632831
+    second: hiei_0
+  - first:
+      213: 1518371986326021963
+    second: hiei_1
+  - first:
+      213: -251302258184784427
+    second: hiei_2
+  - first:
+      213: 3069079931207971293
+    second: hiei_3
+  - first:
+      213: -7733718236234236632
+    second: hiei_4
+  - first:
+      213: 7385618953544320940
+    second: hiei_5
+  - first:
+      213: 3931742384826352847
+    second: hiei_6
+  - first:
+      213: -7339481902062876852
+    second: hiei_7
+  - first:
+      213: 9106741265379163974
+    second: hiei_8
+  - first:
+      213: 7112935820436262993
+    second: hiei_9
+  - first:
+      213: 7165416861339597783
+    second: hiei_10
+  - first:
+      213: -1593564849419464475
+    second: hiei_11
+  - first:
+      213: 643156459002758200
+    second: hiei_12
+  - first:
+      213: 6117341276566976386
+    second: hiei_13
+  - first:
+      213: -8997190398350303710
+    second: hiei_14
+  - first:
+      213: -1004194693743416935
+    second: hiei_15
+  - first:
+      213: 3944494268718262245
+    second: hiei_16
+  - first:
+      213: -4388864689597662240
+    second: hiei_17
+  - first:
+      213: 4352500399907030221
+    second: hiei_18
+  - first:
+      213: 1259498987075693354
+    second: hiei_19
+  - first:
+      213: 8821982884817701005
+    second: hiei_20
+  - first:
+      213: 6160482662159208577
+    second: hiei_21
+  - first:
+      213: -7375245776751583278
+    second: hiei_22
+  - first:
+      213: -7961750737749782986
+    second: hiei_23
+  - first:
+      213: -5207165264911341546
+    second: hiei_24
+  - first:
+      213: 3555851551262754477
+    second: hiei_25
+  - first:
+      213: 952781607496379114
+    second: hiei_26
+  - first:
+      213: -8060237376931023570
+    second: hiei_27
+  - first:
+      213: -5819973609671956875
+    second: hiei_28
+  - first:
+      213: 1804086161997466321
+    second: hiei_29
+  - first:
+      213: 7838466315033768869
+    second: hiei_30
+  - first:
+      213: -2468127478941335392
+    second: hiei_31
+  - first:
+      213: 2554743159905276506
+    second: hiei_32
+  - first:
+      213: 6715237336686476425
+    second: hiei_33
+  - first:
+      213: -1591976834232429211
+    second: hiei_34
+  - first:
+      213: 8947899888525957057
+    second: hiei_35
+  - first:
+      213: -8058191166509007384
+    second: hiei_36
+  - first:
+      213: -1551764841678150933
+    second: hiei_37
+  - first:
+      213: 1428763857878777148
+    second: hiei_38
+  - first:
+      213: 2377218228900579110
+    second: hiei_39
+  - first:
+      213: 3592958337755186540
+    second: hiei_40
+  - first:
+      213: -3921104966277687431
+    second: hiei_41
+  - first:
+      213: -6141662176784628312
+    second: hiei_42
+  - first:
+      213: 2924121668507030904
+    second: hiei_43
+  - first:
+      213: -7117747381457390283
+    second: hiei_44
+  - first:
+      213: 7467659827345561703
+    second: hiei_45
+  - first:
+      213: -4248866767008654775
+    second: hiei_46
+  - first:
+      213: -4169404545197458554
+    second: hiei_47
+  - first:
+      213: 6113467906538295404
+    second: hiei_48
+  - first:
+      213: 6631778289245327038
+    second: hiei_49
+  - first:
+      213: 7978748207526796826
+    second: hiei_50
+  - first:
+      213: -3812099955753727102
+    second: hiei_51
+  - first:
+      213: 506395008369766795
+    second: hiei_52
+  - first:
+      213: -2494142103203973647
+    second: hiei_53
+  - first:
+      213: 7230269036563487473
+    second: hiei_54
+  - first:
+      213: 8362895293988606809
+    second: hiei_55
+  - first:
+      213: 2853663366774425134
+    second: hiei_56
+  - first:
+      213: 2853429910861257872
+    second: hiei_57
+  - first:
+      213: -5969567277104672518
+    second: hiei_58
+  - first:
+      213: -8805897143322840114
+    second: hiei_59
+  - first:
+      213: -1783710384002181794
+    second: hiei_60
+  - first:
+      213: 7966104999446389138
+    second: hiei_61
+  - first:
+      213: -8780834335422172223
+    second: hiei_62
+  - first:
+      213: 5499172967123541107
+    second: hiei_63
+  - first:
+      213: -5511114514382108118
+    second: hiei_64
+  - first:
+      213: 980309626143112663
+    second: hiei_65
+  - first:
+      213: -2710212042873179083
+    second: hiei_66
+  - first:
+      213: -2125328071349330134
+    second: hiei_67
+  - first:
+      213: 8071643207188469810
+    second: hiei_68
+  - first:
+      213: 4416954764670497461
+    second: hiei_69
+  - first:
+      213: -2401234416475777892
+    second: hiei_70
+  - first:
+      213: -7164581864701513173
+    second: hiei_71
+  - first:
+      213: -290840933459713774
+    second: hiei_72
+  - first:
+      213: 952980700742896570
+    second: hiei_73
+  - first:
+      213: 4455746909008206554
+    second: hiei_74
+  - first:
+      213: -5906744017315995260
+    second: hiei_75
+  - first:
+      213: -5033000245871760819
+    second: hiei_76
+  - first:
+      213: 6726821038457448087
+    second: hiei_77
+  - first:
+      213: -496017330936966294
+    second: hiei_78
+  - first:
+      213: -360570861181399647
+    second: hiei_79
+  - first:
+      213: 7384125321579665882
+    second: hiei_80
+  - first:
+      213: 6888837295325921900
+    second: hiei_81
+  - first:
+      213: -2897983765972508366
+    second: hiei_82
+  - first:
+      213: -8140462142491772857
+    second: hiei_83
+  - first:
+      213: -4969497988758395106
+    second: hiei_84
+  - first:
+      213: -1605981208798866478
+    second: hiei_85
+  - first:
+      213: -7365070797680705705
+    second: hiei_86
+  - first:
+      213: 4196463447187246044
+    second: hiei_87
+  - first:
+      213: -9006816491149218494
+    second: hiei_88
+  - first:
+      213: -2807958732294996241
+    second: hiei_89
+  - first:
+      213: -6346388452794854569
+    second: hiei_90
+  - first:
+      213: 9144913086559510206
+    second: hiei_91
+  - first:
+      213: 3361539728175394613
+    second: hiei_92
+  - first:
+      213: -1810634046052051189
+    second: hiei_93
+  - first:
+      213: 4654671781721354909
+    second: hiei_94
+  - first:
+      213: 3888170328995932269
+    second: hiei_95
+  - first:
+      213: -5524893591459141625
+    second: hiei_96
+  - first:
+      213: -8073577503120477727
+    second: hiei_97
+  - first:
+      213: -1935187799176663365
+    second: hiei_98
+  - first:
+      213: -8150197484410564625
+    second: hiei_99
+  - first:
+      213: -6322825747363563056
+    second: hiei_100
+  - first:
+      213: -3791554935208888095
+    second: hiei_101
+  - first:
+      213: -1315517388096273252
+    second: hiei_102
+  - first:
+      213: -2211836523628567195
+    second: hiei_103
+  - first:
+      213: -35170112998216893
+    second: hiei_104
+  - first:
+      213: -7982298017575658927
+    second: hiei_105
+  - first:
+      213: -7916150274605549632
+    second: hiei_106
+  - first:
+      213: -97939987910599913
+    second: hiei_107
+  - first:
+      213: 1454171484620363147
+    second: hiei_108
+  - first:
+      213: -506529813686229277
+    second: hiei_109
+  - first:
+      213: 9016419346490416477
+    second: hiei_110
+  - first:
+      213: -4773849703159427428
+    second: hiei_111
+  - first:
+      213: 2717778804515434644
+    second: hiei_112
+  - first:
+      213: -217501248600471460
+    second: hiei_113
+  - first:
+      213: 6272976818099039081
+    second: hiei_114
+  - first:
+      213: 2032143881857795036
+    second: hiei_115
+  - first:
+      213: 9087729718301525445
+    second: hiei_116
+  - first:
+      213: -3632766912420825532
+    second: hiei_117
+  - first:
+      213: 1815314924033790329
+    second: hiei_118
+  - first:
+      213: -2864525187588382244
+    second: hiei_119
+  - first:
+      213: 5136743605330830206
+    second: hiei_120
+  - first:
+      213: -5701453440155337553
+    second: hiei_121
+  - first:
+      213: -3111502557888027434
+    second: hiei_122
+  - first:
+      213: -5981772130399892976
+    second: hiei_123
+  - first:
+      213: -6493803643290230777
+    second: hiei_124
+  - first:
+      213: -4402961946920518729
+    second: hiei_125
+  - first:
+      213: -8765892733515108603
+    second: hiei_126
+  - first:
+      213: -3380460549485629370
+    second: hiei_127
+  - first:
+      213: 5902198590100898798
+    second: hiei_128
+  - first:
+      213: 2036750068300460083
+    second: hiei_129
+  - first:
+      213: -6874992418201288062
+    second: hiei_130
+  - first:
+      213: 5325414678923804230
+    second: hiei_131
+  - first:
+      213: -759882206990086951
+    second: hiei_132
+  - first:
+      213: -1386859826522478029
+    second: hiei_133
+  - first:
+      213: -4313188296492217773
+    second: hiei_134
+  - first:
+      213: 8555092857791546670
+    second: hiei_135
+  - first:
+      213: 2039640855193344280
+    second: hiei_136
+  - first:
+      213: -4038031719380179465
+    second: hiei_137
+  - first:
+      213: 176329353163617105
+    second: hiei_138
+  - first:
+      213: -4696025828861636756
+    second: hiei_139
+  - first:
+      213: -6028961787906667425
+    second: hiei_140
+  - first:
+      213: -1836270007770606761
+    second: hiei_141
+  - first:
+      213: -8712687932030552764
+    second: hiei_142
+  - first:
+      213: -8556250984489249363
+    second: hiei_143
+  - first:
+      213: 3198444166918097079
+    second: hiei_144
+  - first:
+      213: -8042386116669622345
+    second: hiei_145
+  - first:
+      213: 4307005952341388514
+    second: hiei_146
+  - first:
+      213: -7200789206928787033
+    second: hiei_147
+  - first:
+      213: -8544825514172645630
+    second: hiei_148
+  - first:
+      213: 4896150069649296616
+    second: hiei_149
+  - first:
+      213: -5613289353964998244
+    second: hiei_150
+  - first:
+      213: -5948592688549561647
+    second: hiei_151
+  - first:
+      213: -6676695035070591193
+    second: hiei_152
+  - first:
+      213: -4302127647691000645
+    second: hiei_153
+  - first:
+      213: -1183976786116626912
+    second: hiei_154
+  - first:
+      213: -4644823860309181199
+    second: hiei_155
+  - first:
+      213: -1493367329231648763
+    second: hiei_156
+  - first:
+      213: 825153251698995970
+    second: hiei_157
+  - first:
+      213: 9101641943473695017
+    second: hiei_158
+  - first:
+      213: 261034826862431946
+    second: hiei_159
+  - first:
+      213: -7347345141989190874
+    second: hiei_160
+  - first:
+      213: -3296945145732031747
+    second: hiei_161
+  - first:
+      213: -1082641529099943700
+    second: hiei_162
+  - first:
+      213: 4813848311567136374
+    second: hiei_163
+  - first:
+      213: -1794723874239079897
+    second: hiei_164
+  - first:
+      213: -3753404314057204480
+    second: hiei_165
+  - first:
+      213: 7255792855093322669
+    second: hiei_166
+  - first:
+      213: -3055712681597876614
+    second: hiei_167
+  - first:
+      213: 6631971604477497299
+    second: hiei_168
+  - first:
+      213: -4308931117060968362
+    second: hiei_169
+  - first:
+      213: 7554890957120239169
+    second: hiei_170
+  - first:
+      213: 6330570436075631866
+    second: hiei_171
+  - first:
+      213: 714534192408497616
+    second: hiei_172
+  - first:
+      213: 411907181850466397
+    second: hiei_173
+  - first:
+      213: -8731556470050053957
+    second: hiei_174
+  - first:
+      213: -5533952779271707209
+    second: hiei_175
+  - first:
+      213: -2939388384252553253
+    second: hiei_176
+  - first:
+      213: 3813512388224882315
+    second: hiei_177
+  - first:
+      213: 2451960705572163806
+    second: hiei_178
+  - first:
+      213: 6665848954071489053
+    second: hiei_179
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hiei_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1587
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1854cc229b040cda0800000000000000
+      internalID: -5926665945722632831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_1
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1587
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b47edd1e647521510800000000000000
+      internalID: 1518371986326021963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_2
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1587
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d574a97de1338cf0800000000000000
+      internalID: -251302258184784427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_3
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1587
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd17eeecfef879a20800000000000000
+      internalID: 3069079931207971293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_4
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1588
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82d3c483d305ca490800000000000000
+      internalID: -7733718236234236632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_5
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 1588
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca7c66cbe4dfe7660800000000000000
+      internalID: 7385618953544320940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_6
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1589
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc40ce32eda509630800000000000000
+      internalID: 3931742384826352847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_7
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 1587
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c474228a81ce42a90800000000000000
+      internalID: -7339481902062876852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_8
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1588
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64ff0586ee4a16e70800000000000000
+      internalID: 9106741265379163974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_9
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 1587
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1505147517936b260800000000000000
+      internalID: 7112935820436262993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_10
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1498
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dbbdbfdbaca07360800000000000000
+      internalID: 7165416861339597783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_11
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1498
+        width: 61
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e0ddc7663582e9e0800000000000000
+      internalID: -1593564849419464475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_12
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1498
+        width: 50
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8348bd15463fce800800000000000000
+      internalID: 643156459002758200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_13
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 1498
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 287fb9fda7925e450800000000000000
+      internalID: 6117341276566976386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_14
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1498
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22e56c9700f832380800000000000000
+      internalID: -8997190398350303710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_15
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 1498
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 999671a1f326012f0800000000000000
+      internalID: -1004194693743416935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_16
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 1498
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e7248973a8adb630800000000000000
+      internalID: 3944494268718262245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_17
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 1499
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ebb64961de9713c0800000000000000
+      internalID: -4388864689597662240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_18
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 1499
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc4443d9d00376c30800000000000000
+      internalID: 4352500399907030221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_19
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 1498
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2b6c97d7a3aa7110800000000000000
+      internalID: 1259498987075693354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_20
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1409
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d88822061bafd6a70800000000000000
+      internalID: 8821982884817701005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_21
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1409
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 180d3f2775e6e7550800000000000000
+      internalID: 6160482662159208577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_22
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 1409
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2df9581ba0dd5a990800000000000000
+      internalID: -7375245776751583278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_23
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1411
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63e483e13ed228190800000000000000
+      internalID: -7961750737749782986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_24
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1409
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 618e432c7ce6cb7b0800000000000000
+      internalID: -5207165264911341546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_25
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 1409
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da6c90b652ce85130800000000000000
+      internalID: 3555851551262754477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_26
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 1409
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeae85fe2d5f83d00800000000000000
+      internalID: 952781607496379114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_27
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 1409
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2533b68fc8442090800000000000000
+      internalID: -8060237376931023570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_28
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 1411
+        width: 54
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 576ea5966dc4b3fa0800000000000000
+      internalID: -5819973609671956875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_29
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 1409
+        width: 44
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1da8e0e4ec6690910800000000000000
+      internalID: 1804086161997466321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_30
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1318
+        width: 61
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a3f3736593d7cc60800000000000000
+      internalID: 7838466315033768869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_31
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1324
+        width: 51
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a0425572237fbdd0800000000000000
+      internalID: -2468127478941335392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_32
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1324
+        width: 54
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a52538a4e55447320800000000000000
+      internalID: 2554743159905276506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_33
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1325
+        width: 51
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98c33a367c0513d50800000000000000
+      internalID: 6715237336686476425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_34
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1328
+        width: 54
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 565dce0018928e9e0800000000000000
+      internalID: -1591976834232429211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_35
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 1320
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c7d8556a835d2c70800000000000000
+      internalID: 8947899888525957057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_36
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 1320
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ed3a0404dd8b2090800000000000000
+      internalID: -8058191166509007384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_37
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 1322
+        width: 54
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be265dc1916077ae0800000000000000
+      internalID: -1551764841678150933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_38
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 1322
+        width: 54
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3df7c8a82df3d310800000000000000
+      internalID: 1428763857878777148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_39
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 1323
+        width: 27
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 627c33752639df020800000000000000
+      internalID: 2377218228900579110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_40
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1234
+        width: 20
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c650da66290ccd130800000000000000
+      internalID: 3592958337755186540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_41
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1234
+        width: 30
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9779ffddecf6599c0800000000000000
+      internalID: -3921104966277687431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_42
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1243
+        width: 20
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a5cc464ace64caa0800000000000000
+      internalID: -6141662176784628312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_43
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1245
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87552633a21949820800000000000000
+      internalID: 2924121668507030904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_44
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1252
+        width: 52
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 535f34fc77ea83d90800000000000000
+      internalID: -7117747381457390283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_45
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 1234
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76813603c0572a760800000000000000
+      internalID: 7467659827345561703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_46
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1229
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94a9c76df2ef805c0800000000000000
+      internalID: -4248866767008654775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_47
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 1228
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68b3b9618ac4326c0800000000000000
+      internalID: -4169404545197458554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_48
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 1228
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6057f2aba667d450800000000000000
+      internalID: 6113467906538295404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_49
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 1228
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebe8d97a73fc80c50800000000000000
+      internalID: 6631778289245327038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_50
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1135
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1e5be5b8353abe60800000000000000
+      internalID: 7978748207526796826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_51
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1139
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28b4401a943b81bc0800000000000000
+      internalID: -3812099955753727102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_52
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1140
+        width: 46
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8139edb393170700800000000000000
+      internalID: 506395008369766795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_53
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1141
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f57e2fb8f6036dd0800000000000000
+      internalID: -2494142103203973647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_54
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 1142
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fa5fd29163175460800000000000000
+      internalID: 7230269036563487473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_55
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 1142
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9531afb16f8fe0470800000000000000
+      internalID: 8362895293988606809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_56
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 1142
+        width: 19
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e26822576bf3a9720800000000000000
+      internalID: 2853663366774425134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_57
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 1142
+        width: 20
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09c1c54c26b699720800000000000000
+      internalID: 2853429910861257872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_58
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 1142
+        width: 23
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af051698036d72da0800000000000000
+      internalID: -5969567277104672518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_59
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 1142
+        width: 22
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec37d9b243b2bc580800000000000000
+      internalID: -8805897143322840114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_60
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1055
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e55df533bdcfe37e0800000000000000
+      internalID: -1783710384002181794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_61
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1056
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 291277f6a4a4d8e60800000000000000
+      internalID: 7966104999446389138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_62
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1053
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c3bb9dd1b5342680800000000000000
+      internalID: -8780834335422172223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_63
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1053
+        width: 23
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37c54df7dacf05c40800000000000000
+      internalID: 5499172967123541107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_64
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1053
+        width: 23
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2a41cd5c869483b0800000000000000
+      internalID: -5511114514382108118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_65
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1053
+        width: 23
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ddf72c3962ca9d00800000000000000
+      internalID: 980309626143112663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_66
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 1053
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 534fe8e9184636ad0800000000000000
+      internalID: -2710212042873179083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_67
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 1053
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2f9e0c21615182e0800000000000000
+      internalID: -2125328071349330134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_68
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 1052
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 238d9264bbc340070800000000000000
+      internalID: 8071643207188469810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_69
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 1052
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b27729d4fc2c4d30800000000000000
+      internalID: 4416954764670497461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_70
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 964
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c94d48f350a1daed0800000000000000
+      internalID: -2401234416475777892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_71
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 964
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b22b24ee0ca429c90800000000000000
+      internalID: -7164581864701513173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_72
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 964
+        width: 54
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 211adf246b9b6fbf0800000000000000
+      internalID: -290840933459713774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_73
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 964
+        width: 53
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abb4591f5eaa93d00800000000000000
+      internalID: 952980700742896570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_74
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 964
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ada9a78c43ef5dd30800000000000000
+      internalID: 4455746909008206554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_75
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 964
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48167bc8c97070ea0800000000000000
+      internalID: -5906744017315995260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_76
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 966
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4a2c5e31f0372ab0800000000000000
+      internalID: -5033000245871760819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_77
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 964
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79661e028187a5d50800000000000000
+      internalID: 6726821038457448087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_78
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 964
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6390139ddacd19f0800000000000000
+      internalID: -496017330936966294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_79
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 964
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ad0dee46befefaf0800000000000000
+      internalID: -360570861181399647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_80
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 875
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad919b17bdea97660800000000000000
+      internalID: 7384125321579665882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_81
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 875
+        width: 59
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c624d5f75011a9f50800000000000000
+      internalID: 6888837295325921900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_82
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 875
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2312c587e1b48c7d0800000000000000
+      internalID: -2897983765972508366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_83
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 875
+        width: 62
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7483349bfc4470f80800000000000000
+      internalID: -8140462142491772857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_84
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 874
+        width: 55
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e17a904a8ebc80bb0800000000000000
+      internalID: -4969497988758395106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_85
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 875
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d35795799866b9e0800000000000000
+      internalID: -1605981208798866478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_86
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 875
+        width: 49
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75f73ae91230ac990800000000000000
+      internalID: -7365070797680705705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_87
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 876
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdbc18a7545dc3a30800000000000000
+      internalID: 4196463447187246044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_88
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 876
+        width: 48
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24dabe71f1c510380800000000000000
+      internalID: -9006816491149218494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_89
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 875
+        width: 49
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feeb99109602809d0800000000000000
+      internalID: -2807958732294996241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_90
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 786
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7539588a3591de7a0800000000000000
+      internalID: -6346388452794854569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_91
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 786
+        width: 62
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebe533a100249ee70800000000000000
+      internalID: 9144913086559510206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_92
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 786
+        width: 53
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53fe144929696ae20800000000000000
+      internalID: 3361539728175394613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_93
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 786
+        width: 53
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b07d6d2ade55fd6e0800000000000000
+      internalID: -1810634046052051189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_94
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 786
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d92398fe257b89040800000000000000
+      internalID: 4654671781721354909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_95
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 838
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d682406505e85f530800000000000000
+      internalID: 3888170328995932269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_96
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 786
+        width: 33
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 708ee3bfc82a353b0800000000000000
+      internalID: -5524893591459141625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_97
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 786
+        width: 53
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e13beb5904e4ff80800000000000000
+      internalID: -8073577503120477727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_98
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 786
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbea76023f4d425e0800000000000000
+      internalID: -1935187799176663365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_99
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 786
+        width: 47
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fef0d6cc19ea4ee80800000000000000
+      internalID: -8150197484410564625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_100
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 786
+        width: 70
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d973b78b7fc048a0800000000000000
+      internalID: -6322825747363563056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_101
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 697
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e8be7cffd0b16bc0800000000000000
+      internalID: -3791554935208888095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_102
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 697
+        width: 51
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c940caac7e75ebde0800000000000000
+      internalID: -1315517388096273252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_103
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 699
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56562eb866afd41e0800000000000000
+      internalID: -2211836523628567195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_104
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 699
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34be704f7fc038ff0800000000000000
+      internalID: -35170112998216893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_105
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 696
+        width: 60
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15a191bbe3e293190800000000000000
+      internalID: -7982298017575658927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_106
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 697
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c7768d444f242290800000000000000
+      internalID: -7916150274605549632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_107
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 698
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71b5843991c04aef0800000000000000
+      internalID: -97939987910599913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_108
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 695
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b859c4fb2414e2410800000000000000
+      internalID: 1454171484620363147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_109
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 697
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e6661371d178f8f0800000000000000
+      internalID: -506529813686229277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_110
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 697
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5d5585ef91c02d70800000000000000
+      internalID: 9016419346490416477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_111
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 608
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9e0418ecf0efbdb0800000000000000
+      internalID: -4773849703159427428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_112
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 608
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4907a3d5c6d77b520800000000000000
+      internalID: 2717778804515434644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_113
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 608
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5807fa44c74bfcf0800000000000000
+      internalID: -217501248600471460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_114
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 608
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96bad0f2e271e0750800000000000000
+      internalID: 6272976818099039081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_115
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 608
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd30e920810a33c10800000000000000
+      internalID: 2032143881857795036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_116
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 601
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c58f1aa70a1e1e70800000000000000
+      internalID: 9087729718301525445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_117
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 601
+        width: 64
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4463d598db1d59dc0800000000000000
+      internalID: -3632766912420825532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_118
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 608
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 971df723e4b413910800000000000000
+      internalID: 1815314924033790329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_119
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 608
+        width: 46
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd1a2afc4892f38d0800000000000000
+      internalID: -2864525187588382244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_120
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 608
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e73e00ae711694740800000000000000
+      internalID: 5136743605330830206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_121
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 519
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: facbc14cd4e50e0b0800000000000000
+      internalID: -5701453440155337553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_122
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 521
+        width: 62
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d46d57b8e8b1d4d0800000000000000
+      internalID: -3111502557888027434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_123
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 522
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01ace20b0f97cfca0800000000000000
+      internalID: -5981772130399892976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_124
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 521
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7006c88fdff51e5a0800000000000000
+      internalID: -6493803643290230777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_125
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 519
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bb7d3aef6985e2c0800000000000000
+      internalID: -4402961946920518729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_126
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 510
+        width: 28
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50f67a7a00b495680800000000000000
+      internalID: -8765892733515108603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_127
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 514
+        width: 25
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 640ffaa6a013611d0800000000000000
+      internalID: -3380460549485629370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_128
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 514
+        width: 24
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee386c4b852d8e150800000000000000
+      internalID: 5902198590100898798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_129
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 514
+        width: 25
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3303d4d556df34c10800000000000000
+      internalID: 2036750068300460083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_130
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 519
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 282cb9722de1790a0800000000000000
+      internalID: -6874992418201288062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_131
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 430
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64e77ea6f6ca7e940800000000000000
+      internalID: 5325414678923804230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_132
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 430
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dc4735a82b5475f0800000000000000
+      internalID: -759882206990086951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_133
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 430
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a2edee552e0cce0800000000000000
+      internalID: -1386859826522478029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_134
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 430
+        width: 59
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35a853ab81a7424c0800000000000000
+      internalID: -4313188296492217773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_135
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 430
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e25852990abc9b670800000000000000
+      internalID: 8555092857791546670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_136
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 430
+        width: 62
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8195c232d824e4c10800000000000000
+      internalID: 2039640855193344280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_137
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 429
+        width: 55
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f5a59eab8706f7c0800000000000000
+      internalID: -4038031719380179465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_138
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 430
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 153bacacc92727200800000000000000
+      internalID: 176329353163617105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_139
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 441
+        width: 49
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6f84a6a36d54deb0800000000000000
+      internalID: -4696025828861636756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_140
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 418
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5c4b6b5233d45ca0800000000000000
+      internalID: -6028961787906667425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_141
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 369
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 753112b28224486e0800000000000000
+      internalID: -1836270007770606761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_142
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 361
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4457c74dc70561780800000000000000
+      internalID: -8712687932030552764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_143
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 368
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da59e640017124980800000000000000
+      internalID: -8556250984489249363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_144
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 363
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b8c2131608236c20800000000000000
+      internalID: 3198444166918097079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_145
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 341
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b7bf51ff64b36090800000000000000
+      internalID: -8042386116669622345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_146
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 340
+        width: 42
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ec2dca181f85cb30800000000000000
+      internalID: 4307005952341388514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_147
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 271
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a9fa822e58a11c90800000000000000
+      internalID: -7200789206928787033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_148
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 271
+        width: 51
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20f7b00a77eaa6980800000000000000
+      internalID: -8544825514172645630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_149
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 271
+        width: 63
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ec43742c8e92f340800000000000000
+      internalID: 4896150069649296616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_150
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 271
+        width: 63
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c913f63b2179912b0800000000000000
+      internalID: -5613289353964998244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_151
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 271
+        width: 48
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1da748d777a527da0800000000000000
+      internalID: -5948592688549561647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_152
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 271
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72fc0018d3d9753a0800000000000000
+      internalID: -6676695035070591193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_153
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 271
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb4bdf4b2b5cb44c0800000000000000
+      internalID: -4302127647691000645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_154
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 271
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 026b531d26ba19fe0800000000000000
+      internalID: -1183976786116626912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_155
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 271
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fc3302fe454a8fb0800000000000000
+      internalID: -4644823860309181199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_156
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 271
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50849f5835e764be0800000000000000
+      internalID: -1493367329231648763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_157
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 217
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 203f6c4b288837b00800000000000000
+      internalID: 825153251698995970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_158
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 217
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 929ab8100278f4e70800000000000000
+      internalID: 9101641943473695017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_159
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 217
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ace0421cac16f9300800000000000000
+      internalID: 261034826862431946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_160
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 216
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 623da81758cf80a90800000000000000
+      internalID: -7347345141989190874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_161
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 217
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfa91b0abd5ee32d0800000000000000
+      internalID: -3296945145732031747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_162
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 148
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce089eee34fa9f0f0800000000000000
+      internalID: -1082641529099943700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_163
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 148
+        width: 51
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 676b295d8893ec240800000000000000
+      internalID: 4813848311567136374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_164
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 150
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72a111e252cd717e0800000000000000
+      internalID: -1794723874239079897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_165
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 150
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00d933aa9aa39ebc0800000000000000
+      internalID: -3753404314057204480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_166
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 147
+        width: 60
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da3a7aba821c1b460800000000000000
+      internalID: 7255792855093322669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_167
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 148
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a76c3b5818de795d0800000000000000
+      internalID: -3055712681597876614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_168
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 149
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dfcb5d590f790c50800000000000000
+      internalID: 6631971604477497299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_169
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 146
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65034fd8af99334c0800000000000000
+      internalID: -4308931117060968362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_170
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 148
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14676f74c4d58d860800000000000000
+      internalID: 7554890957120239169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_171
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 148
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af4b0e35544bad750800000000000000
+      internalID: 6330570436075631866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_172
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 86
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dd016eef098ae900800000000000000
+      internalID: 714534192408497616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_173
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 86
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5811a6466367b500800000000000000
+      internalID: 411907181850466397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_174
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 86
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb0276af6a743d680800000000000000
+      internalID: -8731556470050053957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_175
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 86
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b569b374437333b0800000000000000
+      internalID: -5533952779271707209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_176
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 85
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd797bb86d13537d0800000000000000
+      internalID: -2939388384252553253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_177
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 86
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8612beef415ce430800000000000000
+      internalID: 3813512388224882315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_178
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 86
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed058da454d170220800000000000000
+      internalID: 2451960705572163806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_179
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 86
+        width: 23
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1a17d97e4ad18c50800000000000000
+      internalID: 6665848954071489053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_180
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 86
+        width: 23
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb13aef1a6cbc344b6110a5060e1a15
+      internalID: -1547970035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_181
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 86
+        width: 23
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b2acdb22e32d7547bf5d76720295e04
+      internalID: 1341544406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_182
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 24
+        width: 23
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75065275d1597e34e8cbddce30af56b8
+      internalID: -1987131853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hiei_183
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 0
+        width: 156
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d641723559dea8f42bb8cb16040f52d7
+      internalID: -1255345274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ede4cb95f73bb674ea84358a31655a3d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      hiei_0: -5926665945722632831
+      hiei_1: 1518371986326021963
+      hiei_10: 7165416861339597783
+      hiei_100: -6322825747363563056
+      hiei_101: -3791554935208888095
+      hiei_102: -1315517388096273252
+      hiei_103: -2211836523628567195
+      hiei_104: -35170112998216893
+      hiei_105: -7982298017575658927
+      hiei_106: -7916150274605549632
+      hiei_107: -97939987910599913
+      hiei_108: 1454171484620363147
+      hiei_109: -506529813686229277
+      hiei_11: -1593564849419464475
+      hiei_110: 9016419346490416477
+      hiei_111: -4773849703159427428
+      hiei_112: 2717778804515434644
+      hiei_113: -217501248600471460
+      hiei_114: 6272976818099039081
+      hiei_115: 2032143881857795036
+      hiei_116: 9087729718301525445
+      hiei_117: -3632766912420825532
+      hiei_118: 1815314924033790329
+      hiei_119: -2864525187588382244
+      hiei_12: 643156459002758200
+      hiei_120: 5136743605330830206
+      hiei_121: -5701453440155337553
+      hiei_122: -3111502557888027434
+      hiei_123: -5981772130399892976
+      hiei_124: -6493803643290230777
+      hiei_125: -4402961946920518729
+      hiei_126: -8765892733515108603
+      hiei_127: -3380460549485629370
+      hiei_128: 5902198590100898798
+      hiei_129: 2036750068300460083
+      hiei_13: 6117341276566976386
+      hiei_130: -6874992418201288062
+      hiei_131: 5325414678923804230
+      hiei_132: -759882206990086951
+      hiei_133: -1386859826522478029
+      hiei_134: -4313188296492217773
+      hiei_135: 8555092857791546670
+      hiei_136: 2039640855193344280
+      hiei_137: -4038031719380179465
+      hiei_138: 176329353163617105
+      hiei_139: -4696025828861636756
+      hiei_14: -8997190398350303710
+      hiei_140: -6028961787906667425
+      hiei_141: -1836270007770606761
+      hiei_142: -8712687932030552764
+      hiei_143: -8556250984489249363
+      hiei_144: 3198444166918097079
+      hiei_145: -8042386116669622345
+      hiei_146: 4307005952341388514
+      hiei_147: -7200789206928787033
+      hiei_148: -8544825514172645630
+      hiei_149: 4896150069649296616
+      hiei_15: -1004194693743416935
+      hiei_150: -5613289353964998244
+      hiei_151: -5948592688549561647
+      hiei_152: -6676695035070591193
+      hiei_153: -4302127647691000645
+      hiei_154: -1183976786116626912
+      hiei_155: -4644823860309181199
+      hiei_156: -1493367329231648763
+      hiei_157: 825153251698995970
+      hiei_158: 9101641943473695017
+      hiei_159: 261034826862431946
+      hiei_16: 3944494268718262245
+      hiei_160: -7347345141989190874
+      hiei_161: -3296945145732031747
+      hiei_162: -1082641529099943700
+      hiei_163: 4813848311567136374
+      hiei_164: -1794723874239079897
+      hiei_165: -3753404314057204480
+      hiei_166: 7255792855093322669
+      hiei_167: -3055712681597876614
+      hiei_168: 6631971604477497299
+      hiei_169: -4308931117060968362
+      hiei_17: -4388864689597662240
+      hiei_170: 7554890957120239169
+      hiei_171: 6330570436075631866
+      hiei_172: 714534192408497616
+      hiei_173: 411907181850466397
+      hiei_174: -8731556470050053957
+      hiei_175: -5533952779271707209
+      hiei_176: -2939388384252553253
+      hiei_177: 3813512388224882315
+      hiei_178: 2451960705572163806
+      hiei_179: 6665848954071489053
+      hiei_18: 4352500399907030221
+      hiei_180: -1547970035
+      hiei_181: 1341544406
+      hiei_182: -1987131853
+      hiei_183: -1255345274
+      hiei_19: 1259498987075693354
+      hiei_2: -251302258184784427
+      hiei_20: 8821982884817701005
+      hiei_21: 6160482662159208577
+      hiei_22: -7375245776751583278
+      hiei_23: -7961750737749782986
+      hiei_24: -5207165264911341546
+      hiei_25: 3555851551262754477
+      hiei_26: 952781607496379114
+      hiei_27: -8060237376931023570
+      hiei_28: -5819973609671956875
+      hiei_29: 1804086161997466321
+      hiei_3: 3069079931207971293
+      hiei_30: 7838466315033768869
+      hiei_31: -2468127478941335392
+      hiei_32: 2554743159905276506
+      hiei_33: 6715237336686476425
+      hiei_34: -1591976834232429211
+      hiei_35: 8947899888525957057
+      hiei_36: -8058191166509007384
+      hiei_37: -1551764841678150933
+      hiei_38: 1428763857878777148
+      hiei_39: 2377218228900579110
+      hiei_4: -7733718236234236632
+      hiei_40: 3592958337755186540
+      hiei_41: -3921104966277687431
+      hiei_42: -6141662176784628312
+      hiei_43: 2924121668507030904
+      hiei_44: -7117747381457390283
+      hiei_45: 7467659827345561703
+      hiei_46: -4248866767008654775
+      hiei_47: -4169404545197458554
+      hiei_48: 6113467906538295404
+      hiei_49: 6631778289245327038
+      hiei_5: 7385618953544320940
+      hiei_50: 7978748207526796826
+      hiei_51: -3812099955753727102
+      hiei_52: 506395008369766795
+      hiei_53: -2494142103203973647
+      hiei_54: 7230269036563487473
+      hiei_55: 8362895293988606809
+      hiei_56: 2853663366774425134
+      hiei_57: 2853429910861257872
+      hiei_58: -5969567277104672518
+      hiei_59: -8805897143322840114
+      hiei_6: 3931742384826352847
+      hiei_60: -1783710384002181794
+      hiei_61: 7966104999446389138
+      hiei_62: -8780834335422172223
+      hiei_63: 5499172967123541107
+      hiei_64: -5511114514382108118
+      hiei_65: 980309626143112663
+      hiei_66: -2710212042873179083
+      hiei_67: -2125328071349330134
+      hiei_68: 8071643207188469810
+      hiei_69: 4416954764670497461
+      hiei_7: -7339481902062876852
+      hiei_70: -2401234416475777892
+      hiei_71: -7164581864701513173
+      hiei_72: -290840933459713774
+      hiei_73: 952980700742896570
+      hiei_74: 4455746909008206554
+      hiei_75: -5906744017315995260
+      hiei_76: -5033000245871760819
+      hiei_77: 6726821038457448087
+      hiei_78: -496017330936966294
+      hiei_79: -360570861181399647
+      hiei_8: 9106741265379163974
+      hiei_80: 7384125321579665882
+      hiei_81: 6888837295325921900
+      hiei_82: -2897983765972508366
+      hiei_83: -8140462142491772857
+      hiei_84: -4969497988758395106
+      hiei_85: -1605981208798866478
+      hiei_86: -7365070797680705705
+      hiei_87: 4196463447187246044
+      hiei_88: -9006816491149218494
+      hiei_89: -2807958732294996241
+      hiei_9: 7112935820436262993
+      hiei_90: -6346388452794854569
+      hiei_91: 9144913086559510206
+      hiei_92: 3361539728175394613
+      hiei_93: -1810634046052051189
+      hiei_94: 4654671781721354909
+      hiei_95: 3888170328995932269
+      hiei_96: -5524893591459141625
+      hiei_97: -8073577503120477727
+      hiei_98: -1935187799176663365
+      hiei_99: -8150197484410564625
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

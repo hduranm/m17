@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d0b33a01df15a546a9366a0e8930cf9, type: 3}
+  m_Name: Wave8
+  m_EditorClassIdentifier: 
+  enemies:
+  - {fileID: 11400000, guid: ca833b878b67d3a46883337c6626beb3, type: 2}
+  - {fileID: 11400000, guid: 5bd02920d95a6824096ed4ad960e8261, type: 2}
+  melee: 5
+  ranged: 4
+  meleeProbability: 70
+  rangedProbability: 70
